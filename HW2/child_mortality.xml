@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="child_mortality">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15.75" ss:DefaultColumnWidth="66" ss:ExpandedRowCount="28" ss:ExpandedColumnCount="4">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="125.25" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="112.5" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="102" />
+   <Row ss:Index="1">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Year</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Under-ﬁve mortality rate </Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">infant mortality rate </Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="String">neonatal mortality rate </Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1990</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">93.400000000000006</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">64.799999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">36.799999999999997</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1991</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">92.099999999999994</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">63.899999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">36.299999999999997</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1992</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">90.900000000000006</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">63.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">35.899999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1993</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">89.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">62.299999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">35.399999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1994</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">88.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">61.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">27.600000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1995</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">87.299999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">60.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">34.399999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1996</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">85.599999999999994</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">59.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">33.700000000000003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">68.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">58.200000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">33.100000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1998</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">82.099999999999994</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">56.899999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">32.299999999999997</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">1999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">79.900000000000006</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">55.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">31.5</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">77.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">53.899999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">30.699999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">74.799999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">52.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">29.800000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2002</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">72</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">49.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">28.899999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">69.200000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">48.600000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">28</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2004</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">66.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">46.899999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">27.600000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2005</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">68.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">45.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">26.100000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2006</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">61.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">43.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">25.300000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2007</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">58.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">49.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">24.399999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2008</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">56.200000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">40.299999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">23.600000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2009</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">53.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">38.799999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">22.899999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2010</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">68.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">37.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">22.199999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2011</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">49.299999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">36</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">21.5</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2012</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">47.299999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">34.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">20.800000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2013</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">45.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">33.600000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">20.199999999999999</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2014</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">43.700000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">49.100000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">19.600000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2015</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">42.200000000000003</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">31.399999999999999</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">19.100000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="28">
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">2016</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">40.799999999999997</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">30.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">18.600000000000001</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
